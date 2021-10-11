@@ -1,0 +1,16 @@
+{
+  "name": "intro-api-workshop",
+  "version": "1.0.0",
+  "description": "A simple node.js example for consuming the [PeterPortal API](http://api.peterportal.org/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
